@@ -22,4 +22,3 @@ pip install --user ./pyclsclear
 >>> # Type cls or clear alone on a line
 >>> clear
 ```
-
