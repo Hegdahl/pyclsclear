@@ -1,5 +1,8 @@
 # pyclsclear
-Simple screen clearing
+Simple screen clearing.
+This is not pythonic at all, and should never be used in a program.
+But it's a must for people like me who instinctively type clear
+a lot when using a terminal.
 
 ## Installation
 
@@ -22,4 +25,3 @@ pip install --user ./pyclsclear
 >>> # Type cls or clear alone on a line
 >>> clear
 ```
-
